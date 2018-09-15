@@ -1,2 +1,3 @@
-# sakila-queries-mysql
+# Sakila Queries on MySQL
+## Background 
 MySQL queries on the sakila database
