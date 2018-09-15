@@ -15,7 +15,7 @@ A series of MySQL queries on the popular sakila schema to obtain information on 
   * UPDATE
   * JOIN
  * Aggregate Functions: 
-  * SUM 
-  * COUNT
-  * GROUP BY 
-  * WHERE 
+   * SUM 
+   * COUNT
+   * GROUP BY 
+   * WHERE 
